@@ -2,9 +2,13 @@
 
 ## Model preparation in PyMOL
 •	Load and customize the model in PyMOL (2.4 or above!)
+
 •	Avoid using mesh representation, and minimize sticks, balls and lines, as they will increase the file size. The file-size limit for GitHub is 25 MB.
+
 •	Transparency and labels will not be applied in the model, but measurements will be visible, without values.
+
 •	Set up the scene exactly as it is to be presented in 3D.
+
 •	To generate the 3D object, use the command:' save filename.gltf ', or select ' File - Export image - GLTF... ' and save the 
 
 ## GitHub
