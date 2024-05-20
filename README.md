@@ -13,8 +13,8 @@
 
 ## GitHub
 For any issues with GitHub accounts, please visit the documentation of GitHub (https://docs.github.com/en)
-1.	Create a new public repository in your GitHub profile
-2.	Import the example repository (https://github.com/MokosDaniel/modelviewer)
+1.	Create a GitHub profile if you don't have one
+2.	Import the example repository (https://github.com/MokosDaniel/modelviewer) at the "+" button in the top right and name it (this name will be in the URL at the end)
 3.	Upload your gltf model in your repository ('Add file' or just drag and drop it in the browser and commit changes)
 4.	Edit the index.html file and change the name of the model "example.gltf" in line 4 to the name of the uploaded object, "filename.gltf"
 5.	Commit changes, then in the repository, go to 'Settings - Pages - Branch' and select 'main' from the list (the repository has to be public for this to work)
