@@ -9,7 +9,7 @@
 
 •	Set up the scene exactly as it is to be presented in 3D.
 
-•	To generate the 3D object, use the command:' save filename.gltf ', or select ' File - Export image - GLTF... ' and save the 
+•	To generate the 3D object, use the command:' save filename.gltf ', or select ' File - Export image - GLTF... ' and save the file.
 
 ## GitHub
 For any issues with GitHub accounts, please visit the documentation of GitHub (https://docs.github.com/en)
